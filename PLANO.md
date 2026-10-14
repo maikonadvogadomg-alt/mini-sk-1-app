@@ -1,12 +1,12 @@
 # 📋 Plano do projeto: Mini-SK-1
 
-_Gerado em 14/10/2026, 09:36:40 — sem IA, lendo os arquivos._
+_Gerado em 14/10/2026, 09:37:46 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
 | Arquivos | 62 |
-| Linhas | 9.113 |
+| Linhas | 9.115 |
 | Telas/páginas | 1 |
 | Rotas do backend | 0 |
 | Chamadas do app | 0 |
